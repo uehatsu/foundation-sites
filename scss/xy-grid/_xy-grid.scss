@@ -41,11 +41,11 @@ $grid-container-max: $global-width !default;
 /// @type Number
 $xy-block-grid-max: 8 !default;
 
-@import 'gutters';
-@import 'grid';
-@import 'cell';
-@import 'frame';
-@import 'position';
-@import 'layout';
-@import 'collapse';
-@import 'classes';
+@import './gutters';
+@import './grid';
+@import './cell';
+@import './frame';
+@import './position';
+@import './layout';
+@import './collapse';
+@import './classes';
